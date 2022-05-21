@@ -1,0 +1,74 @@
+E:\College\Second Year\Spring 2020\CIE 206 - Database Managment\Project\MusicService\MusicService\obj\Debug\MusicService.csprojAssemblyReference.cache
+E:\College\Second Year\Spring 2020\CIE 206 - Database Managment\Project\MusicService\MusicService\obj\Debug\MusicService.csproj.CoreCompileInputs.cache
+E:\College\Second Year\Spring 2020\CIE 206 - Database Managment\Project\MusicService\MusicService\bin\Debug\MusicService.exe.config
+E:\College\Second Year\Spring 2020\CIE 206 - Database Managment\Project\MusicService\MusicService\bin\Debug\MusicService.exe
+E:\College\Second Year\Spring 2020\CIE 206 - Database Managment\Project\MusicService\MusicService\bin\Debug\MusicService.pdb
+E:\College\Second Year\Spring 2020\CIE 206 - Database Managment\Project\MusicService\MusicService\obj\Debug\MusicService.Login.resources
+E:\College\Second Year\Spring 2020\CIE 206 - Database Managment\Project\MusicService\MusicService\obj\Debug\MusicService.csproj.GenerateResource.cache
+E:\College\Second Year\Spring 2020\CIE 206 - Database Managment\Project\MusicService\MusicService\obj\Debug\MusicService.exe
+E:\College\Second Year\Spring 2020\CIE 206 - Database Managment\Project\MusicService\MusicService\obj\Debug\MusicService.pdb
+E:\College\Second Year\Spring 2020\CIE 206 - Database Managment\Project\MusicService\MusicService\obj\Debug\MusicService.AddNewUser.resources
+E:\College\Second Year\Spring 2020\CIE 206 - Database Managment\Project\MusicService\MusicService\obj\Debug\MusicService.UserInterface.resources
+E:\College\Second Year\Spring 2020\CIE 206 - Database Managment\Project\MusicService\MusicService\obj\Debug\MusicService.CreateUserPlayist.resources
+E:\College\Second Year\Spring 2020\CIE 206 - Database Managment\Project\MusicService\MusicService\obj\Debug\MusicService.MusicExplorer.resources
+E:\College\Second Year\Spring 2020\CIE 206 - Database Managment\Project\MusicService\MusicService\bin\Debug\Interop.WMPLib.dll
+E:\College\Second Year\Spring 2020\CIE 206 - Database Managment\Project\MusicService\MusicService\bin\Debug\AxInterop.WMPLib.dll
+E:\College\Second Year\Spring 2020\CIE 206 - Database Managment\Project\MusicService\MusicService\obj\Debug\Interop.WMPLib.dll
+E:\College\Second Year\Spring 2020\CIE 206 - Database Managment\Project\MusicService\MusicService\obj\Debug\AxInterop.WMPLib.dll
+E:\College\Second Year\Spring 2020\CIE 206 - Database Managment\Project\MusicService\MusicService\obj\Debug\MusicService.csproj.ResolveComReference.cache
+E:\College\Second Year\Spring 2020\CIE 206 - Database Managment\Project\MusicService\MusicService\obj\Debug\MusicService.MusicPlayer.resources
+E:\College\Second Year\Spring 2020\CIE 206 - Database Managment\Project\MusicService\MusicService\obj\Debug\MusicService.CreateArtist.resources
+E:\College\Second Year\Spring 2020\CIE 206 - Database Managment\Project\MusicService\MusicService\obj\Debug\MusicService.Properties.Resources.resources
+E:\College\Second Year\Spring 2020\CIE 206 - Database Managment\Project\MusicService\MusicService\obj\Debug\MusicService.ArtistInterface.resources
+E:\College\Second Year\Spring 2020\CIE 206 - Database Managment\Project\MusicService\MusicService\obj\Debug\MusicService.ProducerInterface.resources
+E:\College\Second Year\Spring 2020\CIE 206 - Database Managment\Project\MusicService\MusicService\obj\Debug\MusicService.ChangePassword.resources
+E:\College\Second Year\Spring 2020\CIE 206 - Database Managment\Project\MusicService\MusicService\obj\Debug\MusicService.Statistics.resources
+C:\Users\Hazem\Desktop\DB Project\MusicService\MusicService\bin\Debug\MusicService.exe.config
+C:\Users\Hazem\Desktop\DB Project\MusicService\MusicService\bin\Debug\MusicService.exe
+C:\Users\Hazem\Desktop\DB Project\MusicService\MusicService\bin\Debug\MusicService.pdb
+C:\Users\Hazem\Desktop\DB Project\MusicService\MusicService\bin\Debug\Interop.WMPLib.dll
+C:\Users\Hazem\Desktop\DB Project\MusicService\MusicService\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Hazem\Desktop\DB Project\MusicService\MusicService\obj\Debug\MusicService.csprojAssemblyReference.cache
+C:\Users\Hazem\Desktop\DB Project\MusicService\MusicService\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hazem\Desktop\DB Project\MusicService\MusicService\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Hazem\Desktop\DB Project\MusicService\MusicService\obj\Debug\MusicService.csproj.ResolveComReference.cache
+C:\Users\Hazem\Desktop\DB Project\MusicService\MusicService\obj\Debug\MusicService.AddNewUser.resources
+C:\Users\Hazem\Desktop\DB Project\MusicService\MusicService\obj\Debug\MusicService.ArtistInterface.resources
+C:\Users\Hazem\Desktop\DB Project\MusicService\MusicService\obj\Debug\MusicService.ChangePassword.resources
+C:\Users\Hazem\Desktop\DB Project\MusicService\MusicService\obj\Debug\MusicService.CreateArtist.resources
+C:\Users\Hazem\Desktop\DB Project\MusicService\MusicService\obj\Debug\MusicService.CreateUserPlayist.resources
+C:\Users\Hazem\Desktop\DB Project\MusicService\MusicService\obj\Debug\MusicService.Login.resources
+C:\Users\Hazem\Desktop\DB Project\MusicService\MusicService\obj\Debug\MusicService.MusicExplorer.resources
+C:\Users\Hazem\Desktop\DB Project\MusicService\MusicService\obj\Debug\MusicService.MusicPlayer.resources
+C:\Users\Hazem\Desktop\DB Project\MusicService\MusicService\obj\Debug\MusicService.ProducerInterface.resources
+C:\Users\Hazem\Desktop\DB Project\MusicService\MusicService\obj\Debug\MusicService.Properties.Resources.resources
+C:\Users\Hazem\Desktop\DB Project\MusicService\MusicService\obj\Debug\MusicService.Statistics.resources
+C:\Users\Hazem\Desktop\DB Project\MusicService\MusicService\obj\Debug\MusicService.UserInterface.resources
+C:\Users\Hazem\Desktop\DB Project\MusicService\MusicService\obj\Debug\MusicService.csproj.GenerateResource.cache
+C:\Users\Hazem\Desktop\DB Project\MusicService\MusicService\obj\Debug\MusicService.exe
+C:\Users\Hazem\Desktop\DB Project\MusicService\MusicService\obj\Debug\MusicService.pdb
+C:\Users\Hazem\Desktop\work\spring 20\CIE 206\DB Project\MusicService\MusicService\bin\Debug\MusicService.exe.config
+C:\Users\Hazem\Desktop\work\spring 20\CIE 206\DB Project\MusicService\MusicService\bin\Debug\MusicService.exe
+C:\Users\Hazem\Desktop\work\spring 20\CIE 206\DB Project\MusicService\MusicService\bin\Debug\MusicService.pdb
+C:\Users\Hazem\Desktop\work\spring 20\CIE 206\DB Project\MusicService\MusicService\bin\Debug\Interop.WMPLib.dll
+C:\Users\Hazem\Desktop\work\spring 20\CIE 206\DB Project\MusicService\MusicService\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Hazem\Desktop\work\spring 20\CIE 206\DB Project\MusicService\MusicService\obj\Debug\MusicService.csprojAssemblyReference.cache
+C:\Users\Hazem\Desktop\work\spring 20\CIE 206\DB Project\MusicService\MusicService\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hazem\Desktop\work\spring 20\CIE 206\DB Project\MusicService\MusicService\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Hazem\Desktop\work\spring 20\CIE 206\DB Project\MusicService\MusicService\obj\Debug\MusicService.csproj.ResolveComReference.cache
+C:\Users\Hazem\Desktop\work\spring 20\CIE 206\DB Project\MusicService\MusicService\obj\Debug\MusicService.AddNewUser.resources
+C:\Users\Hazem\Desktop\work\spring 20\CIE 206\DB Project\MusicService\MusicService\obj\Debug\MusicService.ArtistInterface.resources
+C:\Users\Hazem\Desktop\work\spring 20\CIE 206\DB Project\MusicService\MusicService\obj\Debug\MusicService.ChangePassword.resources
+C:\Users\Hazem\Desktop\work\spring 20\CIE 206\DB Project\MusicService\MusicService\obj\Debug\MusicService.CreateArtist.resources
+C:\Users\Hazem\Desktop\work\spring 20\CIE 206\DB Project\MusicService\MusicService\obj\Debug\MusicService.CreateUserPlayist.resources
+C:\Users\Hazem\Desktop\work\spring 20\CIE 206\DB Project\MusicService\MusicService\obj\Debug\MusicService.Login.resources
+C:\Users\Hazem\Desktop\work\spring 20\CIE 206\DB Project\MusicService\MusicService\obj\Debug\MusicService.MusicExplorer.resources
+C:\Users\Hazem\Desktop\work\spring 20\CIE 206\DB Project\MusicService\MusicService\obj\Debug\MusicService.MusicPlayer.resources
+C:\Users\Hazem\Desktop\work\spring 20\CIE 206\DB Project\MusicService\MusicService\obj\Debug\MusicService.ProducerInterface.resources
+C:\Users\Hazem\Desktop\work\spring 20\CIE 206\DB Project\MusicService\MusicService\obj\Debug\MusicService.Properties.Resources.resources
+C:\Users\Hazem\Desktop\work\spring 20\CIE 206\DB Project\MusicService\MusicService\obj\Debug\MusicService.Statistics.resources
+C:\Users\Hazem\Desktop\work\spring 20\CIE 206\DB Project\MusicService\MusicService\obj\Debug\MusicService.UserInterface.resources
+C:\Users\Hazem\Desktop\work\spring 20\CIE 206\DB Project\MusicService\MusicService\obj\Debug\MusicService.csproj.GenerateResource.cache
+C:\Users\Hazem\Desktop\work\spring 20\CIE 206\DB Project\MusicService\MusicService\obj\Debug\MusicService.csproj.CoreCompileInputs.cache
+C:\Users\Hazem\Desktop\work\spring 20\CIE 206\DB Project\MusicService\MusicService\obj\Debug\MusicService.exe
+C:\Users\Hazem\Desktop\work\spring 20\CIE 206\DB Project\MusicService\MusicService\obj\Debug\MusicService.pdb
